@@ -46,7 +46,7 @@ h2 {
     font-family: 'Goldman', cursive;
 }
 
-@media (min-width:320px)  { 
+@media (max-width:600px)  { 
     /** smartphones, iPhone, portrait 480x320 phones **/ 
     h2 {
         color: white;
