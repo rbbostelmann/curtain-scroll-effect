@@ -45,3 +45,12 @@ h2 {
     font-size: 10rem;
     font-family: 'Goldman', cursive;
 }
+
+@media (min-width:320px)  { 
+    /** smartphones, iPhone, portrait 480x320 phones **/ 
+    h2 {
+        color: white;
+        font-size: 3rem;
+        font-family: 'Goldman', cursive;
+    }
+}
